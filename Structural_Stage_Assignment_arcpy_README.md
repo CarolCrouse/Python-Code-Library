@@ -1,5 +1,6 @@
 Dec 14, 2018
 
+This code uses python and arcpy.
 This code operates on a feature class table (BC VRI) within a file geodatabase.
 Note:  It is currently running with the blank STRUC_CODE field being added by the user prior to running.
 
