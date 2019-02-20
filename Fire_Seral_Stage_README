@@ -1,0 +1,15 @@
+Jan 8, 2019
+Author:  Carol Ann Crouse
+This program assigns seral stages to the existing landbase [NO_FIRE_SERAL] 
+and also where high burns have been taken into account [FIRE_SERAL]
+
+Client:  Babine Forest Products
+Project Manager:  Dwight Crouse
+
+It reads the following fields:
+BGC_ZONE
+BIODIVERSI
+BURNSEV
+AGE_2017
+LU_NAME
+CMCORR2
