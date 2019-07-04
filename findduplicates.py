@@ -1,3 +1,9 @@
+################################################################
+#  This script reads a GDB (entered at the command line prompt)
+#  and prints out a listing of field/layer combos where the 
+#  field name is duplicated.
+################################################################
+
 import arcpy
 
 def backOut(gdbPath):
