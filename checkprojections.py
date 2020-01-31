@@ -23,6 +23,7 @@ while True:
     if prjType == "":
         print "\nAssuming a desired projection of NAD 1983 BC Environment Albers, WKID code = 3005"
         prjCode = 3005
+		# prjCode = 26910 is NAD 1983 UTM Zone 10N
         break
     else:
         print "\n*****NOTE: Custom projections will not be verified properly by this code."
